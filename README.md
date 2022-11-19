@@ -1,1 +1,1 @@
-# nopoint.lua
+Nopoint Private script
